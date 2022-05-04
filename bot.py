@@ -1,4 +1,4 @@
-from src.parser import Anecdote
+from parser import Anecdote
 import telebot
 
 
